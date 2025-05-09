@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/29e4e66a-ed8a-483d-868b-a2572d339fd9)
 ---
 title: NEDSS (NBS) Modernized System Administrator Guide 7.9
 ---
@@ -12,3 +13,4 @@ NBS 7 supports AWS and Azure as runtime options. The underlying system itself ha
 
 Intended Audience
 This guide is intended to be used to install NBS 7, a complex cloud-native application. It assumes familiarity with cloud technologies and tools: knowledge of your cloud service provider (e.g. AWS), runtime environment (e.g. Kubernetes), experience running Terraform and Helm., and experience debugging routine systems and infrastructure problems. You will need administrator-level access to your runtime environment, and access to a local system with a set of installed prerequisites. Please see the Prerequisites and Dependencies section below.  
+
