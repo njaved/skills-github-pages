@@ -1,6 +1,6 @@
-# NBS 7.9 System Administrator Guide
+# NBS System Administrator Guide
 
-Welcome to the NBS 7.9 System Administrator Guide.
+Welcome to the NBS System Administrator Guide.
 
 ## Table of Contents
 - [Introduction](./introduction.md)
