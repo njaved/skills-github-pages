@@ -7,12 +7,3 @@ url: https://njaved.github.io/skills-github-pages/
 baseurl: /skills-github-pages  # Adjust if your repo name is different
 repository: https://github.com/njaved/skills-github-pages
 author: Nouman Javed
-minima:
-  skin: auto
-  description: >
-    Write an awesome description for your new site here. You can edit this line
-    in _config.yml. It will appear in your document head meta (for Google search
-    results) and in your feed.xml site description.
-  nav_pages:
-    - introduction.md
-    - prerequisites.md
