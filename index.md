@@ -1,9 +1,3 @@
-
----
-layout: "default"
-title: "NBS 7.9 System Administrator Guide"
----
-
 # NBS 7.9 System Administrator Guide
 
 Welcome to the NBS 7.9 System Administrator Guide.
