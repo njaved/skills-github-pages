@@ -1,4 +1,4 @@
-title: NBS 7.9 System Administrator Guide
+title: Version 7.9
 theme: minima
 plugins:
   - jekyll-feed
@@ -11,8 +11,4 @@ minima:
     results) and in your feed.xml site description.
   nav_pages:
     - introduction.md
-  show_excerpts: false
-  social_links:
-    - title: Minima Theme repository at GitHub
-      icon: github
-      url: "https://github.com/njaved/skills-github-pages"
+    - prerequisites.md
