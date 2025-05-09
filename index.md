@@ -1,5 +1,4 @@
 ---
-layout: page
 title: NBS System Administrator Guide
 permalink: /Home/
 ---
