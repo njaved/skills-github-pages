@@ -1,5 +1,5 @@
 ---
-title: NEDSS (NBS) Modernized System Administrator Guide: Version 7.9
+title: NEDSS (NBS) Modernized System Administrator Guide 7.9
 ---
 Introduction
 The Modernized NBS 7 system is built to provide a straightforward transition from classic NBS Version 6 systems. It integrates seamlessly, layering on improved interfaces and functions, with the with classic systems that have already been deployed. Users will see a composite of the new features from NBS 7 Modernized and old features from classic NBS 6.  
