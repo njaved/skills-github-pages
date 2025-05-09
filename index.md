@@ -1,4 +1,8 @@
-# NBS System Administrator Guide
+---
+layout: page
+title: NBS System Administrator Guide
+permalink: /Home/
+---
 
 Welcome to the NBS System Administrator Guide.
 
