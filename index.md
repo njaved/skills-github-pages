@@ -1,7 +1,7 @@
 
 ---
-layout: default
-title: NBS 7.9 System Administrator Guide
+layout: "default"
+title: "NBS 7.9 System Administrator Guide"
 ---
 
 # NBS 7.9 System Administrator Guide
