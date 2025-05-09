@@ -3,6 +3,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+url: https://njaved.github.io/skills-github-pages/
+baseurl: /skills-github-pages  # Adjust if your repo name is different
+repository: https://github.com/njaved/skills-github-pages
+author: Nouman Javed
 minima:
   skin: auto
   description: >
