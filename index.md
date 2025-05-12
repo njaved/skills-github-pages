@@ -1,6 +1,7 @@
-
-
-# NBS System Administrator Guide
+---
+layout: page
+title: NBS System Administrator Guide
+---
 Welcome to the NBS System Administrator Guide.
 
 ## Table of Contents
