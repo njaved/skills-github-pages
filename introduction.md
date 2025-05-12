@@ -17,4 +17,7 @@ NBS 7 supports AWS and Azure as runtime options. The underlying system itself ha
 ## Intended Audience
 This guide is intended to be used to install NBS 7, a complex cloud-native application. It assumes familiarity with cloud technologies and tools: knowledge of your cloud service provider (e.g. AWS), runtime environment (e.g. Kubernetes), experience running Terraform and Helm., and experience debugging routine systems and infrastructure problems. You will need administrator-level access to your runtime environment, and access to a local system with a set of installed prerequisites. Please see the Prerequisites and Dependencies section below.  
 
-![alt text](https://github.com/njaved/skills-github-pages/blob/main/Untitled%20Diagram.drawio.png "High Level Infrastructure")
+
+<p align="center">
+  <img src="https://github.com/njaved/skills-github-pages/blob/main/Untitled%20Diagram.drawio.png">
+</p>
