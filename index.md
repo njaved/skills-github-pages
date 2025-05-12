@@ -3,6 +3,7 @@ layout: page
 title: NBS System Administrator Guide
 ---
 ![High level Infrastructure](/skills-github-pages/Screenshot%202025-05-12%20093644.png)
+
 Welcome to the NBS System Administrator Guide.
 
 ## Table of Contents
