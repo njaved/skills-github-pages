@@ -1,7 +1,4 @@
 title: Version 7.9
-theme: just-the-docs
+theme: minima
 author: Authored by Foundations Team
 description: National Electronic Disease Surveillance System Base System (NBS)
-url: https://just-the-docs.github.io
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
